@@ -1,0 +1,44 @@
+Question answering with TensorFlow
+
+Before we get started
+
+installing  -  python3
+
+Jupyter
+
+tensorflow version1.2
+
+Numpy
+
+Matplotlib
+
+start by importing all of the relevant libraries
+
+import tensorflow as tf
+import numpy as np
+import matplotlib.pyplot as plt
+import matplotlib.ticker as ticker
+import urllib
+import sys
+import os
+import zipfile
+import tarfile
+import json 
+import hashlib
+import re
+import itertools
+
+download
+
+GloVe, and unpack the necessary files 
+from those data sets so 
+they can be used in our network.
+
+code mansion codeing are given and download will be done automatically
+
+The TensorFlow contrib module will not be included in TensorFlow 2.0.
+For more information, please see:
+  * https://github.com/tensorflow/community/blob/master/rfcs/20180907-contrib-sunset.md
+  * https://github.com/tensorflow/addons
+If you depend on functionality not listed there, please file an issue.
+
